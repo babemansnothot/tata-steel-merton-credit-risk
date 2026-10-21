@@ -42,7 +42,8 @@ PROJECT FILES
 
 • tata_steel_merton.ipynb — Python model and analysis
 • tata_steel_scenarios.csv — Exported scenario results
-• dashboard.png — Tableau dashboard preview
+• <img width="1198" height="797" alt="image" src="https://github.com/user-attachments/assets/a056a0c7-5cc8-4cb9-b87b-69f12c27970f" />
+ — Tableau dashboard preview
 
 
 DATA SOURCES
